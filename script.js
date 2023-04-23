@@ -113,21 +113,21 @@
                         name: "Black Panther",
                         url: "media/png/blackPanther.png"
                     }
-                    case "deadpool":
-                        return {
-                            name: "Deadpool",
-                            url: "media/png/deadpool.png"
-                        }
-                    case "ironman":
-                        return {
-                            name: "Ironman",
-                            url: "media/png/ironman.png"
-                        }
-                    case "thor":
-                        return {
-                            name: "Thor",
-                            url: "media/png/thor.png"
-                        }
+                case "deadpool":
+                    return {
+                        name: "Deadpool",
+                        url: "media/png/deadpool.png"
+                    }
+                case "ironman":
+                    return {
+                        name: "Ironman",
+                        url: "media/png/ironman.png"
+                    }
+                case "thor":
+                    return {
+                        name: "Thor",
+                        url: "media/png/thor.png"
+                    }
               }
         }
 
